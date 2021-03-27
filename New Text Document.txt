@@ -5,4 +5,4 @@ git branch // thêm nhánh
 git log --graph --online // check
 git commit -m " tên" // add phiên bản mới
 
-c
+NLU
