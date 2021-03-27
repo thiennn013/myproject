@@ -1,0 +1,7 @@
+git add . them all
+git branch // thêm nhánh 
+    feat-1 // thêm nhánh  1
+    feat-2 // thêm nhánh 2
+git log --graph --online // check
+git commit -m " tên" // add phiên bản mới
+
