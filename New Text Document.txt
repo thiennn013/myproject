@@ -6,3 +6,4 @@ git log --graph --online // check
 git commit -m " tên" // add phiên bản mới
 
 NLU
+v
